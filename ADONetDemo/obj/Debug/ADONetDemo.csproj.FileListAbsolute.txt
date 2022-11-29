@@ -1,0 +1,11 @@
+C:\Users\ithinka\source\repos\AdoNetProje1\ADONetDemo\bin\Debug\ADONetDemo.exe.config
+C:\Users\ithinka\source\repos\AdoNetProje1\ADONetDemo\bin\Debug\ADONetDemo.exe
+C:\Users\ithinka\source\repos\AdoNetProje1\ADONetDemo\bin\Debug\ADONetDemo.pdb
+C:\Users\ithinka\source\repos\AdoNetProje1\ADONetDemo\obj\Debug\ADONetDemo.csproj.AssemblyReference.cache
+C:\Users\ithinka\source\repos\AdoNetProje1\ADONetDemo\obj\Debug\ADONetDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\ithinka\source\repos\AdoNetProje1\ADONetDemo\obj\Debug\ADONetDemo.Form1.resources
+C:\Users\ithinka\source\repos\AdoNetProje1\ADONetDemo\obj\Debug\ADONetDemo.Properties.Resources.resources
+C:\Users\ithinka\source\repos\AdoNetProje1\ADONetDemo\obj\Debug\ADONetDemo.csproj.GenerateResource.cache
+C:\Users\ithinka\source\repos\AdoNetProje1\ADONetDemo\obj\Debug\ADONetDemo.csproj.CoreCompileInputs.cache
+C:\Users\ithinka\source\repos\AdoNetProje1\ADONetDemo\obj\Debug\ADONetDemo.exe
+C:\Users\ithinka\source\repos\AdoNetProje1\ADONetDemo\obj\Debug\ADONetDemo.pdb
